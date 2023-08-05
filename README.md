@@ -1,4 +1,4 @@
-# DISCONTINUATION OF PROJECT
+merge # DISCONTINUATION OF PROJECT
 
 This project will no longer be maintained by Intel.
 
