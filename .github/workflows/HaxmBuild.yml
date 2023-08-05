@@ -1,4 +1,4 @@
-name: HAXM build on Windows, macOS and Linux
+commit name: HAXM build on Windows, macOS and Linux
 
 on: [push, pull_request]
 
